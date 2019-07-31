@@ -75,4 +75,11 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+
+  void dispose() {
+    super.dispose();
+    // Disparando o método dispose em nosso _bloc
+    // para evitar vazamento de memória
+    _bloc.dispose();
+  }
 }
