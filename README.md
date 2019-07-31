@@ -1,4 +1,4 @@
-# teste_bloc
+# flutter_bloc_from_scratch
 
 A new Flutter project.
 

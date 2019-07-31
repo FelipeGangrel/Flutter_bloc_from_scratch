@@ -1,4 +1,4 @@
-package com.example.teste_bloc;
+package com.example.flutter_bloc_from_scratch;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

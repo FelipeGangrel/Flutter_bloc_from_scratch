@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:teste_bloc/counter_event.dart';
+import 'package:flutter_bloc_from_scratch/counter_event.dart';
 
 class CounterBloc {
   int _counter = 0;
